@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "author": "Nhocconsr",
+        "description": "Thích là nhích ^^!"
+    },
+    "data": [
+      {
+        "name": "Truyện Tiên Hiệp",
+        "author": "Maats",
+        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/tienhieptruyen/plugin.zip",
+        "version": 2,
+        "source": "https://tienhieptruyen.net",
+        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/tienhieptruyen/icon.png",
+        "description": "Đọc truyện trên trang truyentienhiep.net",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+    ]
+}
